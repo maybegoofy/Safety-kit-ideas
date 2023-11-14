@@ -113,7 +113,8 @@ https://www.google.com/knowledgegraphshares?q=aftermarket+automatic+emergency+br
                     • Vibration Module
                         • Generates vibration warnings in case of in-car noisy environment.
                     • GPS
-                • Has "ADAS Manager" app for phones
+                • Has "ADAS Manager" app for phones https://play.google.com/store/apps/details?id=com.adasone.hm320a&hl=en&gl=US&pli=1
+                    • Last updated May 20 2019, probably abandoned?
             • AONE
                 • http://eng.adasone.com/products/aone/
                 • 
