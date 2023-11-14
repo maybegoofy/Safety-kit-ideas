@@ -1,0 +1,123 @@
+google search
+https://www.google.com/knowledgegraphshares?q=aftermarket+automatic+emergency+braking+system&rlz=1CDGOYI_enUS982US982&oq=aftermarket+automatic.emergency+brakiny+&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMgoIAhAAGIYDGIoFMgoIAxAAGIYDGIoFMgoIBBAAGIYDGIoFMgoIBRAAGIYDGIoF0gEJMTI0NjNqMGo5qAIAsAIA&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+    > https://www.zf.com/products/en/cv/products_64534.html
+    OnGaurdMax
+    > https://www.consumerreports.org/cars/car-safety/automatic-emergency-braking-guide-a1780056935/
+    a report about these systems
+    > https://www.reddit.com/r/cars/comments/6h2839/aftermarket_automatic_emergency_braking_system/
+    reddit r/cars
+        > "would need to be tested and certified to be sold"
+    > http://eng.adasone.com/pr/adas-one-co-ltd-launches-the-worlds-first-am-aeb-at-ces-2018/
+    ADAS ONE 
+        > https://adas.one/
+        lists what all they do
+            • Adaptive Cruise Control
+            • All-Round Vision Camera
+            • Blind Spot Detection Systems
+            • Emergency Braking Systems
+            • Lane Assistance System
+            • Lidar System
+            • Night Vision Assist
+            • Reversing Camera
+            • Traffic Sign Recognition System ADAS automotive
+            • ECU programming 
+                • Airbag Control Modules
+                • Camera Modules
+                • Car Keys
+                • Headlamp Modules
+                • Radar Modules
+                • Steering Rack Modules Diagnostic Coding Calibration
+        > http://eng.adasone.com/
+        products:
+            • HX515
+                • http://eng.adasone.com/products/hx515/
+                • specs:
+                    • CPU	NVIDIA TX1:ARM Cortex A57 Quadcore
+                    • GPU	256-core Pascal GPU 1.1GHz
+                    • RAM	LPDDR4 8GB
+                    • Storage	Internal 32GB
+                    • Camera	2HD Ser-des interface/40 degree
+                    • Radar	CAN interface
+                    • Image processing	Deep Learning S/W
+                • Needs/items:
+                    • 1x Camera
+                    • 1x Actuator 
+                        • manually actuates the pedal(s)
+                    • 1x HX515 ECU 
+                        • Federally illegal in the US, but could be legal, depending on the state and car it it being installed in. For example, in Colorado, if you have an OBD2 port, you are allowed to change the ECU, as long as you do not tamper with the OBD2 port functionality, but without a OBD2 port, it's open season (not a lawyer)
+                    • 1x Radar
+                • Other Items/Demos:
+                    • Actuator (for simulation)
+                    • "Dummy" Car ("For AEB test drive")
+                • "top of the line"
+                • No list price or buy link, have to reach out
+                • Deep Learning SW Development Kit for Autonomous Driving
+                    • At a driving speed lower than 60 km/h, HX515 AEB system constantly monitors the presence of pedestrians in the driving lane. In case of a sudden presence of individuals in the lane, AEB system automatically stops the car using the brake actuator.
+                    • ADAS ONE provides Deep Learning SW autonmous driving kit using advanced and efficient development technology.
+            • HM310
+                • http://eng.adasone.com/products/hm310/
+                • specs:
+                    • CPU	Cortex-A53 Octa Core Application Processor/FHD encoder
+                    • Memory	Internal Memory 16GB(for Car DVR)
+                    • Dimensions /Weight	Passenger car 140mm X100mm X68.3mm /344g
+                    • Commercial Vehicle 140mm X 100mm X 56.3mm/335g
+                    • Front Camera	4.0M Pixel,1/3″ CMOS/DB20, F2.0
+                    • LCD	2.4″ TFT LCD, 240 X 320
+                    • LED	RGB LED X1 /WHITE LED X1
+                • ADAS
+                    • Lane Departure Warning
+                        - Monitors the driver’s position on the road and alerts the driver in case of involuntary lane deviation.
+                            - Operating Condition: Driving speed of 60km/h or more
+                    • Forward Collision Warning
+                        - Measures the time before frontal collisions and alerts the driver in case of collision risk.
+                            - Operating condition: Driving speed of 30km/h or more
+                    • Urban Forward Collision Warning
+                        - Measures the distance of the driver’s car in regard to the foregoing car in urban environment and alerts the driver in case it dangerously approaches the preceding car.
+                            - Operating Condition: driving speed of 5km/h ~ 30km/h
+                    • Headway Monitoring Warning
+                        - Maintains the car at a constant distance from the preceding car to avoid collision
+                • Optional:
+                    • Vibration Module
+                        • Generates vibration warnings in case of in-car noisy environment.
+                    • Rear View Camera
+                        • Monitors the rear-car environment
+                    • In-Cabin Camera
+                        • Monitors in-car environment and the driver’s motion for safe driving
+            • AXON 3.2
+                • http://eng.adasone.com/products/axon/
+                • specs:
+                    • CPU	ARM Cortex-A53 Base 64-bit RISC Octa core
+                    • Memory	Internal Memory 8GB (for Car DVR)
+                    • Dimensions /Weight	Passenger car 62 (L) mm X 47 (W) mm X 31 (H)mm
+                    • Commercial Vehicle 125 (L) mm X 81 (W) mm X 46 (H) mm/343g
+                    • Front Camera	1M Pixel,1/3″ CMOS/YUV422, F1.8
+                    • LCD	1.77″ TFT LCD, 128 X 160
+                    • LED	RGB LED X1
+                • ADAS
+                    • Lane Departure Warning System (LDWS)
+                        • The system triggers visual and audible warning when the vehicle deviates from the lane without the use of turn signals.
+                             *Activation condition: Driving speed above 50km/h
+                    • Forward Collision Warning (FCWS)
+                        • The System warns the driver in case there is a risk of collision with the preceding vehicle or pedestraian.
+                             *Actionvation condition : Driving speed 31km/h or higher.
+                    • Pedestrian Collision Warning (PDWS)
+                        • The system triggers visual and audible warning when there is a risk of frontal collision with pedestrians.
+                             *Activation condition: Driving speed above 30km/h
+                    • Headway Monitoring Warning (HWM)
+                        • Maintains the car at a constant distance from the preceding car to avoid collision
+                    • Black-box (DVR)
+                        • The camera records driving videos. Traffic accident scene videos are recorded and can be used as evidence of accident. Recorded images can be saved in 8GB memory in the terminal, and users can download videos using USB and smartphone app.
+                    • Digital Tachograph/Option (DTG)
+                        • The system records driving information to support maintenance, improves driving habit and operation efficiency. The commercial DTG function that is mandatory for trucks, buses and taxis is available in AXON 3.2.
+                • Optional:
+                    • Vibration Module
+                        • Generates vibration warnings in case of in-car noisy environment.
+                    • GPS
+                • Has "ADAS Manager" app for phones
+            • AONE
+                • http://eng.adasone.com/products/aone/
+                • 
+
+https://cell-gate.com/
+
+https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
