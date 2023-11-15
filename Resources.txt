@@ -9,7 +9,8 @@ https://www.google.com/knowledgegraphshares?q=aftermarket+automatic+emergency+br
         > "would need to be tested and certified to be sold"
     > http://eng.adasone.com/pr/adas-one-co-ltd-launches-the-worlds-first-am-aeb-at-ces-2018/
     ADAS ONE 
-        > https://adas.one/
+        • Appears to be abandoned https://www.youtube.com/@ADASONE
+        • https://adas.one/
         lists what all they do
             • Adaptive Cruise Control
             • All-Round Vision Camera
@@ -117,7 +118,38 @@ https://www.google.com/knowledgegraphshares?q=aftermarket+automatic+emergency+br
                     • Last updated May 20 2019, probably abandoned?
             • AONE
                 • http://eng.adasone.com/products/aone/
-                • 
+                • features:
+                    • Lane Departure Warning System
+                        • Monitors the vehicle’s position and initiate a warning in case of lane drift.
+                    • Forwards Vehicle Start Alert
+                        • Notifies the driver by means of a buzzer when the preceding car moves away at traffic signals.
+                    • TTC (Time To Collision) For FCWS
+                        • Triggers an audio alarm when the TTC is shorter than the pre-set time.
+                    • Safe Driving Index
+                        • Analyses driving data and habits.
+                    • Last Parking Location
+                        • Enables the localization of parked vehicles.
+                    • Forward Collision Warning System
+                        • Monitors the distance vise-a-vis the preceding car and triggers a warning in case of collision risk.
+                    • E-Call (Emergency Call)
+                        • Carry-out emergency calls to emergency centers and pre-registered emergency contacts for assistance after accident occurrence.
+                    • Eco Driving Index
+                        • Analyses the driving habits for a safe, economical, and eco driving experience.
+                    • DTC
+                        • Oversees the status of all vehicle parts and performs problem diagnostics.
+                    • Android Phone Battery Charger
+                        • Maintains the phone battery charged.
+                • E-CALL
+                    • Primary and Secondary Contact
+                        • Select a primary and secondary contact from phone contact list to receive emergency calls.
+                    • Emergency Contact
+                        • Input the national emergency rescue phone number
+                    • Insurance Contact
+                        • Input the insurance company phone number
+
+the HX515 is basically a L3 solution
+the HM310 is basically a L2 solution
+the AONE and AXON 3.2 are basically L1 solutions with OBD2 scanners
 
 https://cell-gate.com/
 

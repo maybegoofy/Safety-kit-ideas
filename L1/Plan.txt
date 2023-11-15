@@ -1,0 +1,30 @@
+Possibly an android app? 
+
+possiby Kotlin front end with a python back end? https://www.geeksforgeeks.org/top-programming-languages-for-android-app-development/
+all python? https://www.youtube.com/watch?v=RWKYJU0MGY0
+
+https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
+possibly use this ^^^
+or at least base it on that
+
+Goals(primary):
+    • Front collision
+    • Runs on a mobile device
+Goals(secondary):
+    • Lane detection
+    • Video Recording
+    • GPS Data and reporting (life360 esque)
+    • EMS contacting
+        • Possibly in the event of a detected emergency (accelerometer?)
+
+Option 1: (current plan, probably harder, but more versitile)
+Create a ML/AI model(possibly based on the github linked above) to preform analysis
+
+Option 2: (backup? probably easier, less versitile)
+Basic analysis(if statements based)
+
+Option 3:(hybrid? hardest, most reliable?)
+Some combination of the two
+
+
+Checklist: https://trello.com/b/C2qCszN0/safety-app
