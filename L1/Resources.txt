@@ -1,3 +1,21 @@
 https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Raspberry_Pi_Guide.md
 https://www.geeksforgeeks.org/top-programming-languages-for-android-app-development/ 
 https://www.youtube.com/watch?v=RWKYJU0MGY0
+
+img_7951 and img_7952 are from meeting with Jason
+    img_7951.jpg transcription
+
+        stm32F4 => lower power
+        stm32H7 Nucleo w/ programmer
+
+        -camera or stereo camera
+        -proximity sensor(s)
+        -IMU intertial measurement unit
+        -lidar I2C sensor
+
+        BPS Space on youtube
+
+    img_7952.jpg transcription
+
+
+https://comma.ai/ 
