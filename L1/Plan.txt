@@ -39,14 +39,11 @@ Checklist: https://trello.com/b/C2qCszN0/safety-app
 
 current shopping list
 stm32h7
-https://www.amazon.com/CoCocina-Stm32H750Vbt6-Stm32H743Vit6-Development-Interface/dp/B08BR42VQB/ref=sr_1_3?keywords=stm32h7&sr=8-3&th=1
-https://www.amazon.com/STM32H7-Module-H750VBT6-Development-Display/dp/B09PZJGM1S/ref=sr_1_9?keywords=stm32h7&sr=8-9
-https://www.amazon.com/SongHe-STM32F401-Development-STM32F401CCU6-Learning/dp/B07XBWGF9M/ref=sr_1_20?keywords=stm32h7&sr=8-20
-https://www.amazon.com/dp/B0B99KGDNT/ref=sspa_dk_detail_3?pd_rd_i=B0B99KGDNT&s=industrial&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1
-https://www.amazon.com/Taidacent-STM32H7-Camera-Recognition-Compatible/dp/B08TWPQ97Z/ref=sr_1_35?keywords=stm32h7&sr=8-35
+https://www.st.com/en/evaluation-tools/nucleo-h743zi.html
 IMU
 https://www.amazon.com/DIANN-GY-521-MPU-6050-Accelerometer-Converter/dp/B0B4DF7MC9/ref=sr_1_3?keywords=imu&sr=8-3
 lidar
-https://www.amazon.com/WayPonDEV-360-Degree-Lidar-Sensor/dp/B0C1C4VW47/ref=sr_1_2_sspa?keywords=lidar&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-https://www.amazon.com/Slamtec-RPLIDAR-Scanning-Avoidance-Navigation/dp/B07TJW5SXF/ref=sr_1_3?keywords=lidar&sr=8-3
-https://www.amazon.com/TF02-Pro-Medium-Range-Distance-Single-Point-Industrial/dp/B08F3FBFQ6/ref=sr_1_16?keywords=lidar&sr=8-16
+https://www.dfrobot.com/product-2108.html
+camera
+https://www.uctronics.com/arducam-mini-module-camera-shield-w-2-mp-ov2640-for-arduino-uno-mega2560-board.html
+
